@@ -1,3 +1,25 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+**/target
+**/build/
+**/out
+
+.idea
+EPM/out/
+EPM/RUN_COMMAND/
+
+.gradle
+build/
+
 # Compiled class file
 *.class
 
